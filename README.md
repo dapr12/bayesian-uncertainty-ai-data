@@ -1,5 +1,4 @@
 ---
-
 # Bayesian Uncertainty for AI-Augmented Data
 
 This repository accompanies the paper:
