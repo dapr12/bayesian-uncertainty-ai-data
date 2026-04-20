@@ -3,7 +3,7 @@
 
 This repository accompanies the paper:
 
-**Pérez Ruiz, D.A. (2026)**
+**Perez Ruiz, D.A. (2026)**
 *Bayesian Uncertainty Quantification for AI-Augmented Social Science Data: A Framework for Combining Probability and Non-Probability Sources.*
 
 ---
