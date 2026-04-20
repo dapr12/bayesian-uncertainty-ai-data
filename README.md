@@ -54,18 +54,6 @@ This approximation:
 
 ---
 
-## Repository Structure
-
-```
-.
-├── R/                # Simulation and analysis scripts
-├── stan/             # Stan model implementation
-├── data/             # Simulated datasets (if included)
-└── README.md
-```
-
----
-
 ## Reproducibility
 
 All results in the paper are reproducible from this repository.
