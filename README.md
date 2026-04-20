@@ -1,11 +1,10 @@
 ---
-# Bayesian Uncertainty for AI-Augmented Data
+# Bayesian Uncertainty for AI–Augmented Data
 
 This repository accompanies the paper:
 
-**Perez Ruiz, D.A. (2026)**
-*Bayesian Uncertainty Quantification for AI-Augmented Social Science Data: A Framework for Combining Probability and Non-Probability Sources.*
-
+**Perez Ruiz, D.A. (2026)**  
+*Bayesian Uncertainty Quantification for AI–Augmented Social Science Data: A Framework for Combining Probability and Non-Probability Sources.*
 ---
 
 ## Abstract
